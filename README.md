@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TANMMAY24
+- 👋 Hi, I’m @Tunmay 42
 - 👀 I’m interested coding and cyber security
 - 🌱 I’m currently learning python
 
